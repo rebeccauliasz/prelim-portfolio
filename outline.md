@@ -4,10 +4,8 @@
 1. “Algorithmic Vision and Proxy Portraiture, or, I thought I was seeing patterns”, to be published in Springer AI & Society Special Edition: Machine Ways of Seeing, Spring 2020
 2. “Seeing Like A Computer: From Probability to Pattern,” to be published in After Agency conference proceedings (TBA) 
 3. “Incomplete Images, or, where does the art happen?”, review for The Art Happens Here: Net Art Anthology, to be published in Journal for Networked Music and the Arts, Spring 2020
-4. “Assemblages of Desire: Reappropriating Affective Technologies,” APRJA (A Peer Reviewed Journal About) Machine Feeling, vol 8. No 1.,
-5. Book review for Numbered Lives: Life and Death in Quantum Media, published on HASTAC, Winter 2019
-6. “Deepface and Deepfakes: facial recognition technology as proxy politics”, course paper for Prof. Mark Hansen, Post-Sovereign Power, Spring, 2019
-7. “Computability of the Flesh: Primitive Accumulation and Informatic Labor”, course paper for Prof. Anne-Maria Makulu, Millennial Capitalisms, Spring 2019
+4. [“Assemblages of Desire: Reappropriating Affective Technologies”](https://aprja.net/article/view/115417), APRJA (A Peer Reviewed Journal About) Machine Feeling, vol 8. No 1.,
+
 
 ## II.	Art/ Performance Work/ Other:
 
