@@ -17,6 +17,8 @@
 - [“Noise Performance As Knowledge Production”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/SLSA%20talk%20-%20GVNC-%20edit.pdf): paper delivered at SLSA Conference in Fall, 2019
 - [*An Ad Hoc Manifesto*](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/GVNC-zine.pdf), zine, 2020
 2. *DukeMTMC Faces*, multimedia online work, 2020
+- [description](https://github.com/rebeccauliasz/PFSR-DukeFace/blob/master/PFSR/progress-report.md)
+- [demo website](http://rebeccauliasz.github.io/objload/)
 3. *Synthetic SAGE*, internet based, 2019
 4. *DOT Cam*, multimedia installation, 2017
 5. *Some Inevitable Future*, multimedia installation, 2016
