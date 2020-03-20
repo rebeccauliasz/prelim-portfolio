@@ -1,5 +1,5 @@
 # Contents: 
-## A selection of 
+## A selection of multimedia works
 
 ## I.	Written Work:
 1. [“Algorithmic Vision and Proxy Portraiture, or, I thought I was seeing patterns”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/Uliasz_proxy_portraiture.pdf), to be published in Springer AI & Society Special Edition: Machine Ways of Seeing, Spring 2020
