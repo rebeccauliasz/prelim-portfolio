@@ -1,8 +1,8 @@
 # Contents: 
 
 ## I.	Written Work:
-a.	“Algorithmic Vision and Proxy Portraiture, or, I thought I was seeing patterns”, to be published in Springer AI & Society Special Edition: Machine Ways of Seeing, Spring 2020
-b.	“Seeing Like A Computer: From Probability to Pattern,” to be published in After Agency conference proceedings (TBA) 
+1. “Algorithmic Vision and Proxy Portraiture, or, I thought I was seeing patterns”, to be published in Springer AI & Society Special Edition: Machine Ways of Seeing, Spring 2020
+2. “Seeing Like A Computer: From Probability to Pattern,” to be published in After Agency conference proceedings (TBA) 
 c.	“Incomplete Images, or, where does the art happen?”, review for The Art Happens Here: Net Art Anthology, to be published in Journal for Networked Music and the Arts, Spring 2020
 d.	“Assemblages of Desire: Reappropriating Affective Technologies,” APRJA (A Peer Reviewed Journal About) Machine Feeling, vol 8. No 1.,
 e.	Book review for Numbered Lives: Life and Death in Quantum Media, published on HASTAC, Winter 2019
