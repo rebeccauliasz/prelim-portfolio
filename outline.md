@@ -11,7 +11,7 @@
 
 ## II.	Art/ Performance Work/ Other:
 
-1. *GOVERNANCE* 
+1. [*GOVERNANCE*](https://gvnc.tv/)
 - Web Site
 - *Some Inevitable Futures / SOMA*, 2018-19
 - Performance Documentation
