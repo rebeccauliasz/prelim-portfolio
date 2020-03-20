@@ -2,8 +2,8 @@
 
 ## I.	Written Work:
 1. [“Algorithmic Vision and Proxy Portraiture, or, I thought I was seeing patterns”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/Uliasz_proxy_portraiture.pdf), to be published in Springer AI & Society Special Edition: Machine Ways of Seeing, Spring 2020
-2. “Seeing Like A Computer: From Probability to Pattern,” to be published in After Agency conference proceedings (TBA) 
-3. “Incomplete Images, or, where does the art happen?”, review for The Art Happens Here: Net Art Anthology, to be published in Journal for Networked Music and the Arts, Spring 2020
+2. [“Seeing Like A Computer: From Probability to Patterns"](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/Uliasz_SeeingLikeAComputer.pdf), to be published in After Agency conference proceedings (TBA) 
+3. [“Incomplete Images, or, where does the art happen?”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/NetArtAnth_review.pdf), review for The Art Happens Here: Net Art Anthology, to be published in Journal for Networked Music and the Arts, Spring 2020
 4. [“Assemblages of Desire: Reappropriating Affective Technologies”](https://aprja.net/article/view/115417), APRJA (A Peer Reviewed Journal About) Machine Feeling, vol 8. No 1.,
 
 
@@ -14,6 +14,7 @@
 - [Performance documentation: a compilation of recent (2018-2020) Governance performances. Private link. ](https://youtu.be/VBhiSi2oNyI)
 - [“Noise Performance As Knowledge Production”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/SLSA%20talk%20-%20GVNC-%20edit.pdf): paper delivered at SLSA Conference in Fall, 2019
 - [*An Ad Hoc Manifesto*](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/GVNC-zine.pdf), zine, 2020
+- [Interview for *Science Arts and Humanites Journal*, "Crosswires"](), interviewed by Fiona Cashell, Winter 2020. Proof in process, please do not circulate. 
 2. *DukeMTMC Faces*, multimedia online work, 2020
 - [description](https://github.com/rebeccauliasz/PFSR-DukeFace/blob/master/PFSR/progress-report.md)
 - [demo website](http://rebeccauliasz.github.io/objload/)
