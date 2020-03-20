@@ -14,7 +14,7 @@
 - [Performance documentation: a compilation of recent (2018-2020) Governance performances. Private link. ](https://youtu.be/VBhiSi2oNyI)
 - [“Noise Performance As Knowledge Production”](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/SLSA%20talk%20-%20GVNC-%20edit.pdf): paper delivered at SLSA Conference in Fall, 2019
 - [*An Ad Hoc Manifesto*](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/GVNC-zine.pdf), zine, 2020
-- [Interview for *Science Arts and Humanites Journal*, "Crosswires"](), interviewed by Fiona Cashell, Winter 2020. Proof in process, please do not circulate. 
+- [Interview for *Science Arts and Humanites Journal*, "Crosswires"](https://github.com/rebeccauliasz/prelim-portfolio/blob/master/interview_becca-and-quran_inprocess.pdf), interviewed by Fiona Cashell, Winter 2020. Proof in process, please do not circulate. 
 2. *DukeMTMC Faces*, multimedia online work, 2020
 - [description](https://github.com/rebeccauliasz/PFSR-DukeFace/blob/master/PFSR/progress-report.md)
 - [demo website](http://rebeccauliasz.github.io/objload/)
