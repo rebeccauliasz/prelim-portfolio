@@ -20,6 +20,6 @@
 - [description](https://github.com/rebeccauliasz/PFSR-DukeFace/blob/master/PFSR/progress-report.md)
 - [demo website](http://rebeccauliasz.github.io/objload/)
 3. [*Synthetic SAGE*](https://github.com/rebeccauliasz/synthetic-sage-style-transfer/blob/master/overview.md), internet based, 2019
-4. *DOT Cam*, multimedia installation, 2017
-5. *Some Inevitable Future*, multimedia installation, 2016
-6. *Scalar Quantities: 1999*, multimedia installation, 2016 
+4. [*DOT Cam*](http://rebeccauliasz.com/works/modus-operandi/modus-operandi.html), multimedia installation, 2017
+5. [*Some Inevitable Future*](http://rebeccauliasz.com/works/some-inevitable-future/some-inevitable-future.html), multimedia installation, 2016
+6. [*Scalar Quantities: 1999*](http://rebeccauliasz.com/works/scalar-quantities/scalar-quantities.html), multimedia installation, 2016 
