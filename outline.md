@@ -11,14 +11,14 @@
 
 ## II.	Art/ Performance Work/ Other:
 
-1. GOVERNANCE 
+1. *GOVERNANCE* 
 - Web Site
-- Some Inevitable Futures / SOMA, 2018-19
+- *Some Inevitable Futures / SOMA*, 2018-19
 - Performance Documentation
 - “Noise Performance As Knowledge Production”: paper delivered at SLSA Conference in Fall, 2019
-- An Ad Hoc Manifesto, zine, 2020
-b.	DukeMTMC Faces, multimedia online work, 2020
-c.	Synthetic SAGE, internet based, 2019
-d.	DOT Cam, multimedia installation, 2017
-e.	Some Inevitable Future, multimedia installation, 2016
-f.	Scalar Quantities: 1999, multimedia installation, 2016 
+- *An Ad Hoc Manifesto*, zine, 2020
+2. *DukeMTMC Faces*, multimedia online work, 2020
+3. *Synthetic SAGE*, internet based, 2019
+4. *DOT Cam*, multimedia installation, 2017
+5. *Some Inevitable Future*, multimedia installation, 2016
+6. *Scalar Quantities: 1999*, multimedia installation, 2016 
