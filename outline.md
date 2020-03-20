@@ -13,9 +13,9 @@
 
 1. [*GOVERNANCE*](https://gvnc.tv/)
 - [*Some Inevitable Futures / SOMA*](https://gvnc.tv/soma/), 2018-19
-- [Performance documentation: a compilation of recent (2018-2020) Governance performances. Private link: ](https://youtu.be/VBhiSi2oNyI)
-- “Noise Performance As Knowledge Production”: paper delivered at SLSA Conference in Fall, 2019
-- *An Ad Hoc Manifesto*, zine, 2020
+- [Performance documentation: a compilation of recent (2018-2020) Governance performances. Private link. ](https://youtu.be/VBhiSi2oNyI)
+- [“Noise Performance As Knowledge Production”]: paper delivered at SLSA Conference in Fall, 2019
+- [*An Ad Hoc Manifesto*], zine, 2020
 2. *DukeMTMC Faces*, multimedia online work, 2020
 3. *Synthetic SAGE*, internet based, 2019
 4. *DOT Cam*, multimedia installation, 2017
